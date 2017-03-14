@@ -1,3 +1,5 @@
+# Padam
+
 ### 31 lipca 2015
 
 Lep na kurwę
@@ -323,8 +325,6 @@ chciałem damo powiedzieć Ci to dzisiaj jedno.
 
 
 *Jakub Ferek lubi to.*
-
-# Padam
 
 ### 30 grudnia 2015
 
