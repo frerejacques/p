@@ -1,5 +1,3 @@
-<div style="font-family: monospace;">
-
 # Padam  
   
 ### 31 lipca 2015  
@@ -408,7 +406,3 @@ siedzę
   
   
 *Agnieszka Huć, Jakub Ferek i Maria Sygit lubią to.*  
-
-</div>
-
-{::options parse_block_html="true" /}
