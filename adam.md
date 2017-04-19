@@ -1,3 +1,4 @@
+<div style="font-family: sans-serif;">
 # Padam  
   
 ### 31 lipca 2015  
@@ -406,3 +407,5 @@ siedzę
   
   
 *Agnieszka Huć, Jakub Ferek i Maria Sygit lubią to.*  
+
+</div>
