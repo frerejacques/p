@@ -228,7 +228,7 @@ oddech śmierci
 na nim ku czci  
 barana złożyła  
   
-![Robak](https://wizjalokalna.files.wordpress.com/2011/04/linda_robak.jpg)  
+![Robak](linda_robak.jpg)  
   
 ### 8 listopada 2015  
   
